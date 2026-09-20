@@ -16,6 +16,7 @@ I'm particularly interested in building practical AI systems, Generative AI appl
 cloud-based applications.
 
 ## 🛠️ Tech Stack
+### Languages
 
 <a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -25,23 +26,33 @@ cloud-based applications.
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </a>
 
-### Languages
-Python | SQL
-
 ### AI / ML
-Machine Learning | Deep Learning | NLP | Generative AI | RAG
 
-### Backend
-Django | Django REST Framework | REST APIs | Microservices
+<a href="https://pytorch.org/">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a>
+
+<a href="https://huggingface.co/">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</a>
 
 ### Cloud
-AWS | Amazon Bedrock | AWS Lambda | API Gateway | S3
+
+<a href="https://aws.amazon.com/">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+</a>
+
+### Backend
+
+<a href="https://www.djangoproject.com/">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
 
 ### Databases
-PostgreSQL | MySQL
 
-### Tools
-Git | GitHub | Postman | Jira | pgAdmin | CI/CD
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
 
 ## 🚀 Featured Projects
 
