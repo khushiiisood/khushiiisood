@@ -15,32 +15,9 @@ Currently, I'm pursuing a Master of Computer Science at the University of Sydney
 I'm particularly interested in building practical AI systems, Generative AI applications, LLM-powered solutions, and scalable
 cloud-based applications.
 
-## 💼 Experience
-
-### Accenture
-**AI/ML Computational Science Analyst — Backend & Cloud Development**
-`July 2023 – July 2026`
-
-- Built and maintained enterprise backend and cloud applications.
-- Worked extensively with AWS Lambda across development, testing, deployment, maintenance and troubleshooting.
-- Contributed to an AI-powered security solution using Amazon Bedrock, MCP tooling, S3 and Bedrock Knowledge Bases.
-- Developed and maintained 20+ production REST APIs using Python and Django REST Framework.
-- Worked with PostgreSQL and complex SQL queries across 60+ tables.
-- Designed backend services around microservices architecture.
-
-## 🤖 AI / ML Focus
-
-I'm currently exploring:
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI-powered applications
-- Natural Language Processing
-- Deep Learning
-- Cloud-based AI systems
-
 ## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python" width="50">
 
 ### Languages
 Python | SQL
@@ -103,13 +80,7 @@ Specializations: Data | AI | Cybersecurity
 **Guru Nanak Dev University**  
 Bachelor of Computer Science & Engineering | 2019 – 2023
 
-## 📜 Certifications
-
-- Microsoft GitHub Copilot Certification (GH-300)
-- PCAP: Programming Essentials in Python
-- Artificial Intelligence and Machine Learning Internship Certificate
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/khushi-sood-0603d
+- 💼 LinkedIn: linkedin.com/in/khushiiisood
 - 📬 Email: ksood0603@gmail.com
