@@ -93,5 +93,5 @@ Bachelor of Computer Science & Engineering | 2019 – 2023
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/khushiiisood/)
+- 💼 LinkedIn: [linkedin.com/in/khushiisood](https://www.linkedin.com/in/khushiisood/)
 - 📬 Email: ksood0603@gmail.com
