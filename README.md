@@ -17,7 +17,13 @@ cloud-based applications.
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python" width="50">
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
 
 ### Languages
 Python | SQL
